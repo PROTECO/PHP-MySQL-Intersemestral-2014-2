@@ -1,0 +1,27 @@
+mark.proteco@gmail.com
+github.com/PROTECO
+
+Tarea 1:
+
+Hacer un script en php usando operadores logicos y el caso if/else (for, while, switch)
+que resuelve el siguiente problema:
+
+Definir antes:
+  Dos equipos: Portugal y Alemania
+  11 jugadores titulares
+  11 jugadores bancas
+
+  -numeros de camiseta
+  -trofeos
+
+- Si soy DT de un equipo (Alemania) que me despliegue la lista delos 11 jugadores titulares con sus nombres.
+  -Si soy Auxiliar (Alemania) que me despliegue una lista de esos 11 jugadores titulares mas otros 11 de banca con sus nombres.
+
+
+- Si soy Jugador de Portugal y ademas tengo el numero 10
+Que me despliegue una lista de todos los trofeos que he ganado
+
+
+
+
+
