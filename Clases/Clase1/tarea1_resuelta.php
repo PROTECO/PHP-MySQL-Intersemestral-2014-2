@@ -52,7 +52,7 @@ $trofeo3 = "Pichichi <br>";
 
 // ********* ASIGNAMOS ROLES PARA VALIDAR ENTRADA DE USUARIO
 
-$equipo = "Portugal";
+$equipo = "Alemania";
 $dt = true;
 $aux = false;
 $camisa = 10;
