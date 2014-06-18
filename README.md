@@ -1,19 +1,38 @@
-TAREA 2
+TAREA 3
 ===============================
+Descargar carpeta Clases/Clase3/material_tarea3
+donde encontrarán el código sql (tarea3.sql) que deberán importar a una base de datos llamada tarea3
 
-Repositorio del curso PROTECO de PHP Intersemestral 2014-2
+OJO: LA BASE DE DATOS "tarea3" USTEDES LA DEBEN CREAR
 
 
-<blockquote>
-  <p>Tarea 2</p>
-  <footer>Curso PHP</footer>
-</blockquote>
 
-<dl>
-  <dt>Fecha de entrega</dt>
-  <dd>Martes 17 de junio 2014  23:59 hrs</dd>
-</dl>
+[[index.php]]
+Crear una pagina llamada index.php
+  -En esta pagina habrán dos links
+  1. El primero te lleva a registro.php
+  2. El segundo te llega a inicio de login.php
 
-<p><strong>Instrucciones:</strong> Descargar la carpeta de PROYECTO e incluirle el módulo de inicio de sesión en el formulario que se encuentra en la esquina arriba-derecha.</p>
-<p>El usuario debe ser: "usuario01" y la contraseña: "pass01", si el usuario ingresa correctamente los datos, le muestra la pagina de "shop-item.php"</p>
-  
+[[registro.php]]
+Donde hay un formulario para insertar usuarios en la tabla de usuario
+  -Insertar: nombre, apellido, correo, contraseña
+  -Nota: la contraseña debe ir encriptada y los otros campos deben impedir inserción sql
+
+
+[[login.php]]
+Donde el usuario tendrá que ingresar usuario y contraseña. Cuando se envía el formulario, se comparan esos datos con los que estan en la base de datos, si encuentra alguno igual, lo redirije a productos.php
+En caso de que falle lo redirije a error.php
+
+
+
+[[productos.php]]
+Donde el usuario puede insertar un producto a la tabla producto
+  -nombre, descripcion y precio
+
+También debe aparecer una tabla en html que despliegue todos los productos de mi base de datos.
+
+[[error.php]]
+Que muestre un mensaje de error
+
+
+
