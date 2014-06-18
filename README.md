@@ -45,6 +45,11 @@ Donde el usuario tendrá que ingresar:
     <li>Usuario</li>
     <li>Password</li>
   </ul>
+  <pre>
+    <strong>TIP:</strong>
+    <p>SELECT nombre FROM usuario WHERE `nombre` = 'Pepe</p>
+    <p>Selecciona [el campo nombre] de [la tabla usuario] donde [el campo nombre] sea igual a [Pepe]</p>
+  </pre>
 Cuando se envía el formulario, se comparan esos datos con los que estan en la base de datos, si encuentra alguno idéntico, lo redirige a:
 <pre>productos.php</pre>
 En caso contrario o que algo falle, redirige a:
