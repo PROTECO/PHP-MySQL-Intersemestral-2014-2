@@ -16,10 +16,14 @@ Importar ese archivo a una base de datos llamada: <strong>tarea3</strong>
 
 
 ###[[index.php]]
-Crear una pagina llamada index.php
-  -En esta pagina habrán dos links
-  1. El primero te lleva a registro.php
-  2. El segundo te llega a inicio de login.php
+Crear una pagina llamada
+<pre>index.php</pre>
+<p>Donde habrán los siguientes links</p>
+  <ol>
+    <li>El primero te lleva a registro.php</li>
+    <li>El segundo te llega a inicio de login.php</li>
+  </ol>
+
 
 [[registro.php]]
 Donde hay un formulario para insertar usuarios en la tabla de usuario
