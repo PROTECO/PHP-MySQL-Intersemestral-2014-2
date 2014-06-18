@@ -1,5 +1,8 @@
 TAREA 3
 ===============================
+<blockquote>
+  Fecha de entrega 19 de junio 7:59am
+</blockquote>
 
 ##Instrucciones
 Descargar carpeta Clases/Clase3/material_tarea3
