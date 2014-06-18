@@ -5,10 +5,12 @@ TAREA 3
 </blockquote>
 
 ##Instrucciones
-Descargar carpeta Clases/Clase3/material_tarea3
-donde encontrarán el código sql (tarea3.sql) que deberán importar a una base de datos llamada tarea3
-
-OJO: LA BASE DE DATOS "tarea3" USTEDES LA DEBEN CREAR
+Descargar carpeta:
+<pre>Clases/Clase3/material_tarea3</pre>
+donde encontrarán el código sql:
+<pre>tarea3.sql</pre> que deberán importar a una base de datos llamada tarea3
+<blockquote>OJO: LA BASE DE DATOS "tarea3" USTEDES LA DEBEN CREAR
+</blockquote>
  
 
 
