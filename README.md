@@ -1,10 +1,15 @@
 TAREA 3
 ===============================
-Descargar carpeta Clases/Clase3/material_tarea3
-donde encontrarán el código sql (tarea3.sql) que deberán importar a una base de datos llamada tarea3
+
+<div class="jumbotron">
+  <h1>Hello, world!</h1>
+  <p>Descargar carpeta Clases/Clase3/material_tarea3
+donde encontrarán el código sql (tarea3.sql) que deberán importar a una base de datos llamada tarea3</p>
+  <p><a class="btn btn-primary btn-lg" role="button">Learn more</a></p>
+</div>
 
 OJO: LA BASE DE DATOS "tarea3" USTEDES LA DEBEN CREAR
-
+ 
 
 
 [[index.php]]
