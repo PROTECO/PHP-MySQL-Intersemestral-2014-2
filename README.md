@@ -1,5 +1,6 @@
 TAREA 3
 ===============================
+#####Queda prohibido utilizar Dreamweaver. Si se detecta código de algún programa parecido que genere estas acciones, será merecedor de puntos menos e incluso puede reprobar el curso.
 <blockquote>
   Fecha de entrega 19 de junio 7:59am
 </blockquote>
