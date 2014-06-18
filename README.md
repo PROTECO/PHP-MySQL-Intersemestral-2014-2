@@ -20,8 +20,8 @@ Crear una pagina llamada
 <pre>index.php</pre>
 <p>Donde habrán los siguientes links</p>
   <ol>
-    <li>El primero te lleva a registro.php</li>
-    <li>El segundo te llega a inicio de login.php</li>
+    <li><strong>Registro</strong> (Que te debe llegar a registro.php)</li>
+    <li><strong>Iniciar sesión</strong>(Que te debe llevar a iniciar.php )</li>
   </ol>
 
 
