@@ -16,19 +16,32 @@ Importar ese archivo a una base de datos llamada: <strong>tarea3</strong>
 
 
 ###[[index.php]]
-Crear una pagina llamada
+Crear la página principal llamada:
 <pre>index.php</pre>
 <p>Donde habrán los siguientes links</p>
-  <ol>
-    <li><strong>Registro</strong> (Que te debe llegar a registro.php)</li>
-    <li><strong>Iniciar sesión</strong>(Que te debe llevar a iniciar.php )</li>
-  </ol>
+  <pre>
+    <ol>
+      <li><strong>Registro</strong> (Que te debe llegar a registro.php)</li>
+      <li><strong>Iniciar sesión</strong>(Que te debe llevar a iniciar.php )</li>
+    </ol>
+  </pre>
 
 
-[[registro.php]]
-Donde hay un formulario para insertar usuarios en la tabla de usuario
-  -Insertar: nombre, apellido, correo, contraseña
-  -Nota: la contraseña debe ir encriptada y los otros campos deben impedir inserción sql
+###[[registro.php]]
+Donde hay un formulario que deberá <strong>insertar</strong> usuarios en la tabla de <strong>usuario</strong> con los siguientes campos
+  <pre>
+    <ul>
+      <li>nombre</li>
+      <li>apellido</li>
+      <li>correo</li>
+      <li>password</li>
+    </ul>
+  </pre>
+  <blockquote>
+    <strong>NOTA: </strong>
+    <p>La contraseña debe ir encriptada y los otros campos deben impedir inserción sql</p>
+  </blockquote>
+ 
 
 
 [[login.php]]
