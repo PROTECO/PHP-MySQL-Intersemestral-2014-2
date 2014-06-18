@@ -9,13 +9,13 @@ Descargar la siguiente carpeta:
 <pre>Clases/Clase3/material_tarea3</pre>
 Ahí encontrarán el archivo SQL:
 <pre>tarea3.sql</pre>
-Importar ese archivo a una base de datos llamada:<strong>tarea3</strong>
-<blockquote><strong>OJO:</strong>USTEDES DEBEN crear la base de datos llamada "tarea3"
+Importar ese archivo a una base de datos llamada: <strong>tarea3</strong>
+<blockquote><strong>OJO:</strong>USTEDES DEBEN crear la base de datos llamada "tarea3" pero las tablas ya se las di en el codigo tarea3.sql
 </blockquote>
  
 
 
-[[index.php]]
+###[[index.php]]
 Crear una pagina llamada index.php
   -En esta pagina habrán dos links
   1. El primero te lleva a registro.php
