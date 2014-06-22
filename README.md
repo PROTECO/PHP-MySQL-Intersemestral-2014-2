@@ -7,25 +7,27 @@ PROYECTO FINAL Inter-2014-2-PHP
 
 ##Instrucciones
 Desarrollar una sitio web dinámico que cumpla con las siguientes características:
+<h4>Menu</h4>
 <ul>
-  <li>Página principal, mostrará información diferente para:
+  <li>Inicio
     <ul>
-      <li>Todo el público (Usuarios no logueados)</li>
-      <li>Usuarios registrados</li>
-      <li>Administradores</li>
+      <li>Registro</li>
+      <li>Inicio de sesión</li>
     </ul>
   </li>
-  <li>Página de administrador, donde sólo el admin podrá acceder y tendrá un menú especial para entrar a las siguientes secciones:
+  <li>
+    Productos
     <ul>
-      <li>Administración de usuarios</li>
-      <li>Administración de productos</li>
+      <li>Administrar productos</li>
+      <li>Ver productos</li>
     </ul>
   </li>
-  <li>Página de Usuario, donde tendrá un menú para ver:
+  <li>
+    Mi cuenta
     <ul>
-      <li>Mis productos</li>
-      <li>Modificar mi perfils</li>
+      <li>Editar mi perfil</li>
+      <li>Ver mis productos apartados</li>
+      <li>Administración</li>
     </ul>
   </li>
 </ul>
-
