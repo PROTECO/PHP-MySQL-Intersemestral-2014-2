@@ -10,7 +10,7 @@ Desarrollar una sitio web dinámico que cumpla con las siguientes característic
 <ul>
   <li>Página principal
     <ul>
-      <li>Usuarios no logueados</li>
+      <li>Usuarios no logueadoss</li>
     </ul>
   </li>
 </ul>
