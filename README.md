@@ -11,8 +11,8 @@ Desarrollar una sitio web dinámico que cumpla con las siguientes característic
 <ul>
   <li>Inicio
     <ul>
-      <li>Registro</li>
-      <li>Inicio de sesión</li>
+      <li>Registrarme</li>
+      <li>Iniciar sesión</li>
     </ul>
   </li>
   <li>
@@ -31,3 +31,6 @@ Desarrollar una sitio web dinámico que cumpla con las siguientes característic
     </ul>
   </li>
 </ul>
+###Inicio
+<h4>Módulo de registro e inicio de sesión</h4>
+Es la única página que podrá ver el público general. Se le hará una invitación al usuario para registrarse, si ya está registrado pasará a la sección de <strong>iniciar sesión</strong>. Todo el demás contenido estará restringido y mostrará error en caso de querer acceder.
