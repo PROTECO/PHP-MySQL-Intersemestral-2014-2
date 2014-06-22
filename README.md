@@ -1,12 +1,17 @@
-TAREA 4
+PROYECTO FINAL INTERSEMESTRAL PHP
 ===============================
 #####Queda prohibido utilizar Dreamweaver. Si se detecta código de algún programa parecido que genere estas acciones, será merecedor de puntos menos e incluso puede reprobar el curso.
-
 <blockquote>
-  Fecha de entrega 20 de junio 7:59am
+  Fecha de entrega 27 de junio 20:00hrs. Por cada hora tarde, se bajará un punto.
 </blockquote>
 
 ##Instrucciones
-Del ejercicio que realizamos en clase llamado:
-<pre>/proyecto_crud</pre>
-Realizar la acción de <strong>eliminar</strong> para terminar el ejercicio.
+Desarrollar una sitio web dinámico que cumpla con las siguientes características:
+<ul>
+  <li>Página principal
+    <ul>
+      <li>Usuarios no logueados</li>
+    </ul>
+  </li>
+</ul>
+
