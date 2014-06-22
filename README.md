@@ -1,4 +1,4 @@
-PROYECTO FINAL INTERSEMESTRAL PHP
+PROYECTO FINAL Inter-2014-2-PHP
 ===============================
 #####Queda prohibido utilizar Dreamweaver. Si se detecta código de algún programa parecido que genere estas acciones, será merecedor de puntos menos e incluso puede reprobar el curso.
 <blockquote>
