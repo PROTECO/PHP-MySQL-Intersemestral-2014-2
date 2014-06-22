@@ -59,3 +59,30 @@ Formulario para editar mi perfil
 <p>Quienes tendrán acceso:
 <pre>Usuarios logueados</pre>
 Se mostrará una lista de productos que se han apartado previamente en la zona de productos. Sino hay productos apartados se muestra una leyenda que diga: "no hay productos apartados"</p>
+###Administración
+<h4>Módulo de admin productos</h4>
+Quienes tendrán acceso:
+<pre>administrador</pre>
+<p>Donde se hará el CRUD de productos</p>
+<h4>Módulo de admin usuarios</h4>
+Quienes tendrán acceso:
+<pre>administrador</pre>
+<p>Donde se hará el CRUD de usuarios</p>
+===============================
+
+##Herramientas a utilizar:
+<ul>
+  <li>Variables</li>
+  <li>Estructuras de control (if-else, while, for)</li>
+  <li>Arreglos y arreglos asociativos</li>
+  <li>Sesiones</li>
+  <li>Formularios POST</li>
+  <li>Peticiones GET</li>
+</ul>
+##Notas
+Siguientes puntos a considerar:
+<ul>
+  <li>Si yo no tengo permisos para acceder a un módulo, no puedo acceder escribiendo la URL de la página.</li>
+  <li>Validaciones en formularios (que no esten vacíos los campos)</li>
+  <li>Contraseñas encriptadas md5</li>
+</ul>
