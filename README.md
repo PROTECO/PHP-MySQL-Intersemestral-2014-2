@@ -7,7 +7,7 @@ PROYECTO FINAL Inter-2014-2-PHP
 
 ##Instrucciones
 Desarrollar una sitio web dinámico que cumpla con las siguientes características:
-<h4>Menu</h4>
+<h4>Menu (5pts)</h4>
 <ul>
   <li>Inicio
     <ul>
@@ -37,29 +37,31 @@ Desarrollar una sitio web dinámico que cumpla con las siguientes característic
 </ul>
 ===============================
 
-###Inicio
+###Inicio (10pts)
 <h4>Módulo de registro e inicio de sesión</h4>
 Quienes tendrán acceso:
 <pre>Sólo usuarios no registrados (Público en general)</pre>
 <p>Se le hará una invitación al usuario para registrarse, si ya está registrado pasará a la sección de <strong>iniciar sesión</strong>. Todo el demás contenido estará restringido y mostrará error en caso de querer acceder.</p>
 ===============================
 
-###Productos
+###Productos (Mostrar productos 15pts, apartarlos 20pts)
 Quienes tendrán acceso:
 <pre>Usuarios logueados</pre>
 <p>Aquí se mostrarán todos los productos dados de alta en la administración y se mostrará un botón para <strong>apartar producto**</strong></p>
 ===============================
 
 ###Mi cuenta
-<h4>Módulo de editar perfil</h4>
+<h4>Módulo de editar perfil</h4> (5pts)
 Quienes tendrán acceso:
 <pre>Usuarios logueados y administrador</pre>
 Formulario para editar mi perfil
-<h4>Módulo de productos apartados</h4>
+
+<h4>Módulo de productos apartados</h4> (30pts)
 <p>Quienes tendrán acceso:
 <pre>Usuarios logueados</pre>
 Se mostrará una lista de productos que se han apartado previamente en la zona de productos. Sino hay productos apartados se muestra una leyenda que diga: "no hay productos apartados"</p>
-###Administración
+
+###Administración (15pts)
 <h4>Módulo de admin productos</h4>
 Quienes tendrán acceso:
 <pre>administrador</pre>
@@ -85,7 +87,9 @@ Quienes tendrán acceso:
 Siguientes puntos a considerar:
 <ul>
   <li>Si yo no tengo permisos para acceder a un módulo, no puedo acceder escribiendo la URL de la página.</li>
-  <li>Validaciones en formularios (que no esten vacíos los campos)</li>
+  <li>
+    Validaciones en formularios (que no esten vacíos los campos)
+  </li>
   <li>Contraseñas encriptadas md5</li>
   <li>Si no tengo permisos para entrar a esa sección, que no la pueda ver en mi menú.</li>
   <li>Que el sitio sea uniforme y coherente en la navegación</li>
