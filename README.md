@@ -38,13 +38,13 @@ Desarrollar una sitio web dinámico que cumpla con las siguientes característic
 ===============================
 
 ###Inicio
-<h4>Módulo de registro e inicio de sesión (10pts)</h4>
+<h4>Módulo de registro e inicio de sesión (5pts)</h4>
 Quienes tendrán acceso:
 <pre>Sólo usuarios no registrados (Público en general)</pre>
 <p>Se le hará una invitación al usuario para registrarse, si ya está registrado pasará a la sección de <strong>iniciar sesión</strong>. Todo el demás contenido estará restringido y mostrará error en caso de querer acceder.</p>
 ===============================
 
-###Productos (Mostrar productos 10pts, apartarlos productos 20pts)
+###Productos
 Quienes tendrán acceso:
 <pre>Usuarios logueados</pre>
 <ul>
@@ -87,8 +87,8 @@ Quienes tendrán acceso:
   <li>Peticiones GET</li>
   <li>Bases de datos MySQL</li>
 </ul>
-##Notas
-Siguientes puntos a considerar:
+##Notas 
+Siguientes puntos a considerar <strong>(10pts)</strong>:
 <ul>
   <li>Si yo no tengo permisos para acceder a un módulo, no puedo acceder escribiendo la URL de la página.</li>
   <li>
