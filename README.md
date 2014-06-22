@@ -41,13 +41,13 @@ Desarrollar una sitio web dinámico que cumpla con las siguientes característic
 <h4>Módulo de registro e inicio de sesión</h4>
 Quienes tendrán acceso:
 <pre>Sólo usuarios no registrados (Público en general)</pre>
-Se le hará una invitación al usuario para registrarse, si ya está registrado pasará a la sección de <strong>iniciar sesión</strong>. Todo el demás contenido estará restringido y mostrará error en caso de querer acceder.
+<p>Se le hará una invitación al usuario para registrarse, si ya está registrado pasará a la sección de <strong>iniciar sesión</strong>. Todo el demás contenido estará restringido y mostrará error en caso de querer acceder.</p>
 ===============================
 
 ###Productos
 Quienes tendrán acceso:
 <pre>Usuarios logueados</pre>
-Aquí se mostrarán todos los productos dados de alta en la administración y se mostrará un botón para <strong>apartar producto**</strong>
+<p>Aquí se mostrarán todos los productos dados de alta en la administración y se mostrará un botón para <strong>apartar producto**</strong></p>
 ===============================
 
 ###Mi cuenta
@@ -56,6 +56,6 @@ Quienes tendrán acceso:
 <pre>Usuarios logueados y administrador</pre>
 Formulario para editar mi perfil
 <h4>Módulo de productos apartados</h4>
-Quienes tendrán acceso:
+<p>Quienes tendrán acceso:
 <pre>Usuarios logueados</pre>
-Se mostrará una lista de productos que se han apartado previamente en la zona de productos. Sino hay productos apartados se muestra una leyenda que diga: "no hay productos apartados"
+Se mostrará una lista de productos que se han apartado previamente en la zona de productos. Sino hay productos apartados se muestra una leyenda que diga: "no hay productos apartados"</p>
