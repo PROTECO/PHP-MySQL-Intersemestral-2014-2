@@ -24,7 +24,7 @@ Desarrollar una sitio web dinámico que cumpla con las siguientes característic
   <li>Página de Usuario, donde tendrá un menú para ver:
     <ul>
       <li>Mis productos</li>
-      <li>Modificar mi perfil</li>
+      <li>Modificar mi perfils</li>
     </ul>
   </li>
 </ul>
