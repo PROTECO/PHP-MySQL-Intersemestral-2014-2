@@ -75,9 +75,11 @@ Quienes tendrán acceso:
   <li>Variables</li>
   <li>Estructuras de control (if-else, while, for)</li>
   <li>Arreglos y arreglos asociativos</li>
+  <li>Plantillas (include) para código repetido</li>
   <li>Sesiones</li>
   <li>Formularios POST</li>
   <li>Peticiones GET</li>
+  <li>Bases de datos MySQL</li>
 </ul>
 ##Notas
 Siguientes puntos a considerar:
@@ -85,4 +87,6 @@ Siguientes puntos a considerar:
   <li>Si yo no tengo permisos para acceder a un módulo, no puedo acceder escribiendo la URL de la página.</li>
   <li>Validaciones en formularios (que no esten vacíos los campos)</li>
   <li>Contraseñas encriptadas md5</li>
+  <li>Si no tengo permisos para entrar a esa sección, que no la pueda ver en mi menú.</li>
+  <li>Que el sitio sea uniforme y coherente en la navegación</li>
 </ul>
