@@ -44,24 +44,24 @@ Quienes tendrán acceso:
 <p>Se le hará una invitación al usuario para registrarse, si ya está registrado pasará a la sección de <strong>iniciar sesión</strong>. Todo el demás contenido estará restringido y mostrará error en caso de querer acceder.</p>
 ===============================
 
-###Productos (Mostrar productos 15pts, apartarlos 20pts)
+###Productos (Mostrar productos 10pts, apartarl productos 20pts)
 Quienes tendrán acceso:
 <pre>Usuarios logueados</pre>
 <p>Aquí se mostrarán todos los productos dados de alta en la administración y se mostrará un botón para <strong>apartar producto**</strong></p>
 ===============================
 
 ###Mi cuenta
-<h4>Módulo de editar perfil</h4> (5pts)
+<h4>Módulo de editar perfil (5pts)</h4>
 Quienes tendrán acceso:
 <pre>Usuarios logueados y administrador</pre>
 Formulario para editar mi perfil
 
-<h4>Módulo de productos apartados</h4> (30pts)
+<h4>Módulo de productos apartados (30pts)</h4> 
 <p>Quienes tendrán acceso:
 <pre>Usuarios logueados</pre>
 Se mostrará una lista de productos que se han apartado previamente en la zona de productos. Sino hay productos apartados se muestra una leyenda que diga: "no hay productos apartados"</p>
 
-###Administración (15pts)
+###Administración(15pts)
 <h4>Módulo de admin productos</h4>
 Quienes tendrán acceso:
 <pre>administrador</pre>
